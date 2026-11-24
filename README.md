@@ -4,15 +4,6 @@
 
 FMCW 레이더로 허공에 쓴 손 서명의 **3D 궤적**을 추출하고, DTW로 유사도를 비교해 본인확인을 수행하는 시스템입니다.
 
-| | |
-|---|---|
-| **분야** | 신호처리 |
-| **종류** | 논문, 프로젝트 |
-| **기간** | 2025년 3분기 |
-| **팀원** | 김동원, 백인찬, 윤영선, 이제용 |
-| **장비** | TI IWR6843ISK-ODS (3Tx · 4Rx, 60–64 GHz) + DCA1000, mmWaveStudio |
-| **언어** | MATLAB |
-
 | L | A | B |
 |:-:|:-:|:-:|
 | ![L](docs/images/gifs/L.svg) | ![A](docs/images/gifs/A.svg) | ![B](docs/images/gifs/B.svg) |
